@@ -1,3 +1,5 @@
+npx tsc --init
+yarn init -y
 # Comando para resetar o banco de dados caso seja necessario: 
 npx prisma migrate reset
 # Comando para rodar a migrate:
